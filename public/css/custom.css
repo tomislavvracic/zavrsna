@@ -1,0 +1,56 @@
+.filter-container{
+    display: flex;
+    margin-left: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#filter{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.new-button-container{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    margin-top: 10px;
+}
+
+.new-button{
+    border: 1px solid #112266;
+    padding: 5px;
+    width: 100px;
+}
+
+.page-container{
+    display: flex;
+}
+
+.img-container{
+    width: 30%;
+}
+
+.text-container{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.header{
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 19px;
+}
+
+.text{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.author{
+    font-size: 15px;
+    color: #666;
+    text-align: right;
+}
